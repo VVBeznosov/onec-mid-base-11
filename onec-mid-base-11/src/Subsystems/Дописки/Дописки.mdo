@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="30621dc8-9b8b-4c5a-ad78-6b9227ba3a8a">
+  <name>Дописки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дописки</value>
+  </synonym>
+  <content>Catalog.доп_Должности</content>
+</mdclass:Subsystem>
