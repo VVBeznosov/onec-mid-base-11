@@ -6,4 +6,5 @@
     <value>Дописки</value>
   </synonym>
   <content>Catalog.доп_Должности</content>
+  <content>Catalog.доп_КонтактныеЛица</content>
 </mdclass:Subsystem>
